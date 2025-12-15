@@ -1,1 +1,1 @@
-# AI-Project
+# Celebrity Face Classification Project
